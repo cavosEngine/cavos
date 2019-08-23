@@ -1,4 +1,4 @@
-# cavos
+# Cavos
 The engine of the Industrial Internet blockchain
 Blockchain value system hybrid computing platform
 
